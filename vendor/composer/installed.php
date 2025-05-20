@@ -3,7 +3,7 @@
         'name' => 'parsely/wp-parsely',
         'pretty_version' => 'dev-develop',
         'version' => 'dev-develop',
-        'reference' => '9ebcce8601dccc41569e9a59fb47e78d3b9094d7',
+        'reference' => '361c3a5a59be4b02b610daacb1a762e079d46ec0',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'parsely/wp-parsely' => array(
             'pretty_version' => 'dev-develop',
             'version' => 'dev-develop',
-            'reference' => '9ebcce8601dccc41569e9a59fb47e78d3b9094d7',
+            'reference' => '361c3a5a59be4b02b610daacb1a762e079d46ec0',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
